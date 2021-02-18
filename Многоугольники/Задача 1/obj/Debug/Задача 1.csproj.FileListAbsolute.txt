@@ -1,0 +1,31 @@
+C:\Users\79268\source\repos\Многоугольники\Задача 1\bin\Debug\Задача 1.exe.config
+C:\Users\79268\source\repos\Многоугольники\Задача 1\bin\Debug\Задача 1.exe
+C:\Users\79268\source\repos\Многоугольники\Задача 1\bin\Debug\Задача 1.pdb
+C:\Users\79268\source\repos\Многоугольники\Задача 1\obj\Debug\Задача 1.csprojAssemblyReference.cache
+C:\Users\79268\source\repos\Многоугольники\Задача 1\obj\Debug\Задача_1.Form1.resources
+C:\Users\79268\source\repos\Многоугольники\Задача 1\obj\Debug\Задача_1.Properties.Resources.resources
+C:\Users\79268\source\repos\Многоугольники\Задача 1\obj\Debug\Задача 1.csproj.GenerateResource.cache
+C:\Users\79268\source\repos\Многоугольники\Задача 1\obj\Debug\Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\79268\source\repos\Многоугольники\Задача 1\obj\Debug\Задача 1.exe
+C:\Users\79268\source\repos\Многоугольники\Задача 1\obj\Debug\Задача 1.pdb
+C:\Users\79268\OneDrive\Документы\ооп\Многоугольники\Задача 1\bin\Debug\Задача 1.exe.config
+C:\Users\79268\OneDrive\Документы\ооп\Многоугольники\Задача 1\bin\Debug\Задача 1.exe
+C:\Users\79268\OneDrive\Документы\ооп\Многоугольники\Задача 1\bin\Debug\Задача 1.pdb
+C:\Users\79268\OneDrive\Документы\ооп\Многоугольники\Задача 1\obj\Debug\Задача 1.csprojAssemblyReference.cache
+C:\Users\79268\OneDrive\Документы\ооп\Многоугольники\Задача 1\obj\Debug\Задача_1.Form1.resources
+C:\Users\79268\OneDrive\Документы\ооп\Многоугольники\Задача 1\obj\Debug\Задача_1.Properties.Resources.resources
+C:\Users\79268\OneDrive\Документы\ооп\Многоугольники\Задача 1\obj\Debug\Задача 1.csproj.GenerateResource.cache
+C:\Users\79268\OneDrive\Документы\ооп\Многоугольники\Задача 1\obj\Debug\Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\79268\OneDrive\Документы\ооп\Многоугольники\Задача 1\obj\Debug\Задача 1.exe
+C:\Users\79268\OneDrive\Документы\ооп\Многоугольники\Задача 1\obj\Debug\Задача 1.pdb
+C:\Users\79268\OneDrive\Документы\GitHub\Task2\Многоугольники\Задача 1\bin\Debug\Задача 1.exe.config
+C:\Users\79268\OneDrive\Документы\GitHub\Task2\Многоугольники\Задача 1\bin\Debug\Задача 1.exe
+C:\Users\79268\OneDrive\Документы\GitHub\Task2\Многоугольники\Задача 1\bin\Debug\Задача 1.pdb
+C:\Users\79268\OneDrive\Документы\GitHub\Task2\Многоугольники\Задача 1\obj\Debug\Задача 1.csprojAssemblyReference.cache
+C:\Users\79268\OneDrive\Документы\GitHub\Task2\Многоугольники\Задача 1\obj\Debug\Задача_1.Form1.resources
+C:\Users\79268\OneDrive\Документы\GitHub\Task2\Многоугольники\Задача 1\obj\Debug\Задача_1.Properties.Resources.resources
+C:\Users\79268\OneDrive\Документы\GitHub\Task2\Многоугольники\Задача 1\obj\Debug\Задача 1.csproj.GenerateResource.cache
+C:\Users\79268\OneDrive\Документы\GitHub\Task2\Многоугольники\Задача 1\obj\Debug\Задача 1.csproj.CoreCompileInputs.cache
+C:\Users\79268\OneDrive\Документы\GitHub\Task2\Многоугольники\Задача 1\obj\Debug\Задача 1.exe
+C:\Users\79268\OneDrive\Документы\GitHub\Task2\Многоугольники\Задача 1\obj\Debug\Задача 1.pdb
+C:\Users\79268\OneDrive\Документы\GitHub\Task2\Многоугольники\Задача 1\obj\Debug\Задача_1.Form2.resources
