@@ -1,0 +1,10 @@
+C:\Users\79268\Documents\ооп\DialogWindow\practica5\bin\Debug\practica5.exe.config
+C:\Users\79268\Documents\ооп\DialogWindow\practica5\bin\Debug\practica5.exe
+C:\Users\79268\Documents\ооп\DialogWindow\practica5\bin\Debug\practica5.pdb
+C:\Users\79268\Documents\ооп\DialogWindow\practica5\obj\Debug\practica5.csprojAssemblyReference.cache
+C:\Users\79268\Documents\ооп\DialogWindow\practica5\obj\Debug\practica5.Form1.resources
+C:\Users\79268\Documents\ооп\DialogWindow\practica5\obj\Debug\practica5.Properties.Resources.resources
+C:\Users\79268\Documents\ооп\DialogWindow\practica5\obj\Debug\practica5.csproj.GenerateResource.cache
+C:\Users\79268\Documents\ооп\DialogWindow\practica5\obj\Debug\practica5.csproj.CoreCompileInputs.cache
+C:\Users\79268\Documents\ооп\DialogWindow\practica5\obj\Debug\practica5.exe
+C:\Users\79268\Documents\ооп\DialogWindow\practica5\obj\Debug\practica5.pdb
